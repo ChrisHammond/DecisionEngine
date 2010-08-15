@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnnDecision", "DnnDecision.csproj", "{F8DA89D2-FBB7-424A-8E14-9C426B58B8BD}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs10
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DnnDecision.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8DA89D2-FBB7-424A-8E14-9C426B58B8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DA89D2-FBB7-424A-8E14-9C426B58B8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DA89D2-FBB7-424A-8E14-9C426B58B8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DA89D2-FBB7-424A-8E14-9C426B58B8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
